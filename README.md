@@ -1,1 +1,1 @@
-# Air_BNB_SQL_PROJECT
+# Air_BNB_Analysis_SQL
